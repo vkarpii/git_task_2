@@ -2,8 +2,8 @@ All my friends are heathens. Take it slow
 Wait for them to ask you who you know
 Please don’t make any sudden moves
 You don’t know the half of the abuse
-//Git_1-second commit
-//<->
+//Git_1-second commit//Step 18 git_1 commit+push
+//<-> <->
 
 All my friends are heathens. Take it slow
 Wait for them to ask you who you know
